@@ -1,0 +1,27 @@
+.RenderLogo{
+
+    height: 50px !important;
+
+}
+
+.ThisNot span{
+
+    display: none !important;
+    visibility:hidden;
+
+}
+
+.ThisMenuArrow{
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 8px;
+    font-size: 20px;
+    margin-bottom:3px;
+
+}
